@@ -39,7 +39,7 @@ other socals here:
 
 
 
-<img src="newgrounds_logo.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
+<img src="README/newgrounds_logo.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
 
 ## what is this?
 this is a fork of https://selenite.cc check out the website and its cool games!
