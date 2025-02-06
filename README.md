@@ -1,6 +1,6 @@
 # KnockOut!
-very coool website check it out.
-
+a gimkit gamemode, KnockOut!
+its a boxing game with aswering questions to get energy and KnockOut! your opponents!
 - 150+ games
 - JsEmulator
 - TSOS | Alternnative Website Links
