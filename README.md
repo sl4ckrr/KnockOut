@@ -12,9 +12,7 @@ its a boxing game with aswering questions to get energy and KnockOut! your oppon
 https://sl4ckrr.github.io./TSOS
 
 # more games here:
-- the sl4ckrr game library https://sl4ckrr.github.io./projects.html
-- OvO Unblocked https://sl4ckrr.github.io./ovo
-  
+- https://github.com/sl4ckrr  
 
 
   
