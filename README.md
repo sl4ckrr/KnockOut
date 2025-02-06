@@ -1,4 +1,4 @@
-<img src="README/tsos.jpeg" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
+<img src="README/gimkit.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 
 # KnockOut!
 a gimkit gamemode, KnockOut!
@@ -9,7 +9,7 @@ its a boxing game with aswering questions to get energy and KnockOut! your oppon
 - Bypass blockers
 
 # visit the site of sites
-<img src="tsos.jpeg" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
+<img src="README/tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 
 https://sl4ckrr.github.io./TSOS
 
