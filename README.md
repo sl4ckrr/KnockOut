@@ -12,12 +12,14 @@ its a boxing game with aswering questions to get energy and KnockOut! your oppon
 <img src="README/tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 
 https://sl4ckrr.github.io./TSOS
-
-# more games here:
-- https://github.com/sl4ckrr  
 also checkout our JsEmulator:
 just drop the file into the project and it will load the gba,gbc,gb wtv idc
 https://sl4ckrr.github.io./jsemulator
+
+# more games here:
+ https://github.com/sl4ckrr  
+-150+ games
+- unblocked
 
 
 # sl4ckrr
