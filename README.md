@@ -18,7 +18,7 @@ https://sl4ckrr.github.io./jsemulator
 
 # more games here:
  https://github.com/sl4ckrr  
--150+ games
+- 150+ games
 - unblocked
 
 
