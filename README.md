@@ -9,7 +9,7 @@ its a boxing game with aswering questions to get energy and KnockOut! your oppon
 
 https://sl4ckrr.github.io./TSOS
 - TSOS | Alternnative Website Links
-- Bypass blockers
+- Bypasses website blockers
 # more games here:
  https://github.com/sl4ckrr  
 - 150+ games
