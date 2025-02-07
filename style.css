@@ -1,6 +1,11 @@
 body{
   color:#fff;
 }
+h1,h5 {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
 title.img{
   height:300px;
   width:400px;
