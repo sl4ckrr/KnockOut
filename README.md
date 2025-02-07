@@ -3,23 +3,19 @@
 # KnockOut!
 a gimkit gamemode, KnockOut!
 its a boxing game with aswering questions to get energy and KnockOut! your opponents!
-- 150+ games
-- JsEmulator
-- TSOS | Alternnative Website Links
-- Bypass blockers
 
 # visit the site of sites
 <img src="README/tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 
 https://sl4ckrr.github.io./TSOS
-also checkout our JsEmulator:
-just drop the file into the project and it will load the gba,gbc,gb wtv idc
-https://sl4ckrr.github.io./jsemulator
-
+- TSOS | Alternnative Website Links
+- Bypass blockers
 # more games here:
  https://github.com/sl4ckrr  
 - 150+ games
-- unblocked
+also checkout our JsEmulator:
+just drop the file into the project and it will load the gba,gbc,gb wtv idc
+https://sl4ckrr.github.io./jsemulator
 
 
 # sl4ckrr
