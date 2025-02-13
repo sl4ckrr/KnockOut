@@ -1,3 +1,12 @@
-body{
+* {
+  boxing-size: border-box;
+} 
+ body{
   background: skyblue;
+}
+.game-container {
+  position:relative;
+   width:352px;
+   height:198px;
+   outline:1px solid #fff;
 }
