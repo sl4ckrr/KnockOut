@@ -6,7 +6,11 @@ costructor(config) {
 }
 
 init() {
-  console.log("hello from overworld!", this);
+const image = New image();
+  image.onload = () =>{
+    this.ctx.drawimage(image,0,0)
+  };
+  image.src = "img/";
 }
 
   
