@@ -5,10 +5,14 @@
   background: skyblue;
 }
 .game-container {
+  transform: scale(3) translateY(50%);
   margin:0 auto;
-  margin-top:20px;
   position:relative;
    width:352px;
    height:198px;
    outline:1px solid #fff;
+}
+
+.game-container {
+  image-rendering:pixelated;
 }
