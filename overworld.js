@@ -10,12 +10,28 @@ const image = New Image();
   image.onload = () =>{
     this.ctx.drawimage(image,0,0)
   };
-  image.src = "img/";
+  image.src = "img/"; // map img
   
 
-const x = 0;
-const y = 0;
+const x = 5;
+const y = 6;
 
+  const shadow = new image();
+    shadow.onload = () =>{
+          this.ctx.drawimage(
+      shadow,
+      0, // left cut
+      0, // top cut,
+      32, //width of cut
+      32, //height of cut
+      x * 16 - 8,
+      y * 16 - 18,
+      32,
+      32,
+    ) 
+    }
+shadow.src = ""; // shadow img
+  
   
 const hero = New Image();
   hero.onload = () =>{
@@ -25,14 +41,14 @@ const hero = New Image();
       0, // top cut,
       32, //width of cut
       32, //height of cut
-      x,
-      y,
+      x * 16 - 8,
+      y * 16 - 18,
       32,
       32,
     )
   };
   }
-  hero.src = "img/";
+  hero.src = "img/"; // main character img
 
   
  } 
