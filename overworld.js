@@ -48,7 +48,7 @@ const hero = New Image();
     )
   };
   }
-  hero.src = "img/"; // main character img
+  hero.src = "spritesheet/hero.png"; // main character img
 
   
  } 
