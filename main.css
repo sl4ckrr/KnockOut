@@ -5,6 +5,8 @@
   background: skyblue;
 }
 .game-container {
+  margin:0 auto;
+  margin-top:20px;
   position:relative;
    width:352px;
    height:198px;
