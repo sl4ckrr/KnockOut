@@ -16,13 +16,14 @@
 .game-container {
   image-rendering:pixelated;
 }
-.img-gimkit.png{
-  margin:0 auto;
-  height:200px;
-  width:300px;
+.img-header {
+  margin: 0 auto;
+  height: 200px;
+  width: 300px;
 }
-.img-knockout.png{
-  margin:0 auto;
-  height:200px;
-  width:300px;
+.img-footer {
+  margin: 0 auto;
+  height: 200px;
+  width: 300px;
 }
+
