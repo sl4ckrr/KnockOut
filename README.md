@@ -1,4 +1,4 @@
-<img src="README/knockout.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
+<img src="img/knockout.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 
 #
 a gimkit gamemode, KnockOut!
