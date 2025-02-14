@@ -1,6 +1,6 @@
-<img src="README/gimkit.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
+<img src="README/knockout.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 
-# KnockOut!
+#
 a gimkit gamemode, KnockOut!
 its a boxing game with aswering questions to get energy and KnockOut! your opponents!
 
