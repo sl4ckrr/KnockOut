@@ -35,7 +35,7 @@ other socals here:
 ## what is this?
 this is a fork of https://selenite.cc check out the website and its cool games!
 ## Contributors
-<a href="https://github.com/sl4ckrr/sl4ckrr.github.io/graphs/contributors">
+<a href="https://github.com/sl4ckrr/KnockOut/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sl4ckrr/sl4ckrr.github.io" />
 </a>
 
