@@ -16,6 +16,11 @@
 .game-container {
   image-rendering:pixelated;
 }
+.img-icons {
+  margin: 0 auto;
+  height: 40px;
+  width: 40px;
+}
 .img-header {
   margin-bottom:50%;
   margin: 0 auto;
