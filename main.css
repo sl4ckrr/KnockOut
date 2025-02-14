@@ -38,4 +38,13 @@
   margin-right: auto;
   width: 50%;
   }
+  .right {
+  display: block;
+  margin-left: auto;
+  width: 50%;
+  }
+  .left {
+  margin-right: auto;
+  width: 50%;
+  }
 
