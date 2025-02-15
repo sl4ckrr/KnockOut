@@ -8,6 +8,19 @@ costructor(config) {
 
 startGameLoop() {
   const step = () =>
+
+    //draw lower layer
+this.map.drawLowerImage(this.ctx);
+
+  //Draw game objects
+  Object.values(this.map.gameObjects).forEach(object => {
+  object.sprite.draw(this.ctx);
+  })
+
+  
+  //draw upper layer
+this.map.drawUpperImage(this.ctx);
+    
     requestAnimationFrame(() => {
     step();  
     })
