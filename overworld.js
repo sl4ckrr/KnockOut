@@ -5,7 +5,20 @@ costructor(config) {
   this.ctx = this.canvas.getContext("2d");
 }
 
+startGameLoop() {
+  const step = () =>
+    console.log("stepping");
+    requestAnimationFrame(() => {
+      step();
+    })
+}
+  step();  
+  }
+  
 init() {
+
+this.startGameLoop();
+  
 const image = New Image();
   image.onload = () =>{
     this.ctx.drawimage(image,0,0)
