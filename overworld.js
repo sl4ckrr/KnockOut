@@ -7,9 +7,8 @@ costructor(config) {
 
 startGameLoop() {
   const step = () =>
-    console.log("stepping");
     requestAnimationFrame(() => {
-      step();
+    step();  
     })
 }
   step();  
