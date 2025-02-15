@@ -29,7 +29,7 @@ this.map.drawUpperImage(this.ctx);
   }
   
 init() {
- this.map = new OverworldMap(window.OverworldMaps.DemoRoom);
+ this.map = new OverworldMap(window.OverworldMaps.LivingRoom);
 this.startGameLoop();
 
 
